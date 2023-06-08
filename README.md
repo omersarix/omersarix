@@ -1,7 +1,3 @@
-### Hi there 👋
-
-
-
 
 <h1 align="center">Hi 👋, I'm Ömer Sarı</h1>
 <h3 align="center">Full Time Electrical Technician | Part Time Software Student</h3>
